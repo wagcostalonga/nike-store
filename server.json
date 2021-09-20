@@ -1,0 +1,160 @@
+{
+  "stock": [
+    {
+      "id": 1,
+      "amount": 3
+    },
+    {
+      "id": 2,
+      "amount": 5
+    },
+    {
+      "id": 3,
+      "amount": 2
+    },
+    {
+      "id": 4,
+      "amount": 1
+    },
+    {
+      "id": 5,
+      "amount": 5
+    },
+    {
+      "id": 6,
+      "amount": 8
+    },
+    {
+      "id": 7,
+      "amount": 10
+    },
+    {
+      "id": 8,
+      "amount": 2
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "title": "Tênis Nike SB Zoom Blazer Low Pro GT Unissex",
+      "category": "Skateboarding",
+      "fullPrice": 499.99,
+      "price": 439.99,
+      "discount": "(-12%)",
+      "image": [
+        "https://images.lojanike.com.br/700x700/produto/tenis-nike-sb-zoom-blazer-low-pro-gt-unissex-DC0603-300-1.jpg",
+        "https://images.lojanike.com.br/700x700/produto/tenis-nike-sb-zoom-blazer-low-pro-gt-unissex-DC0603-300-2.jpg",
+        "https://images.lojanike.com.br/700x700/produto/tenis-nike-sb-zoom-blazer-low-pro-gt-unissex-DC0603-300-5.jpg"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Tênis Nike SB Nyjah Free 2 Unissex",
+      "category": "Skateboarding",
+      "fullPrice": null,
+      "price": 599.99,
+      "discount": null,
+      "image": [
+        "https://images.lojanike.com.br/700x700/produto/tenis-nike-sb-nyjah-free-2-unissex-CU9220-400-1.jpg",
+        "https://images.lojanike.com.br/700x700/produto/tenis-nike-sb-nyjah-free-2-unissex-CU9220-400-2.jpg",
+        "https://images.lojanike.com.br/700x700/produto/tenis-nike-sb-nyjah-free-2-unissex-CU9220-400-5.jpg"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Tênis Nike Air VaporMax 2021 Flyknit Masculino",
+      "category": "Casual",
+      "fullPrice": 1199.99,
+      "price": 1029.99,
+      "discount": "(-14%)",
+      "image": [
+        "https://images.lojanike.com.br/700x700/produto/tenis-air-vapormax-2021-fk-DH4084-003-1.jpg",
+        "https://images.lojanike.com.br/700x700/produto/tenis-air-vapormax-2021-fk-DH4084-003-2.jpg",
+        "https://images.lojanike.com.br/700x700/produto/tenis-air-vapormax-2021-fk-DH4084-003-5.jpg"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Tênis Nike Air Vapormax Evo Masculino",
+      "category": "Casual",
+      "fullPrice": 1399.99,
+      "price": 1199.99,
+      "discount": "(-14%)",
+      "image": [
+        "https://images.lojanike.com.br/700x700/produto/tenis-nike-air-vapormax-evo-masculino-CZ1924-001-1.jpg",
+        "https://images.lojanike.com.br/700x700/produto/tenis-nike-air-vapormax-evo-masculino-CZ1924-001-2.jpg",
+        "https://images.lojanike.com.br/700x700/produto/tenis-nike-air-vapormax-evo-masculino-CZ1924-001-5.jpg"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Tênis Nike ZoomX Vaporfly Next% 2 Masculino",
+      "category": "Corrida",
+      "fullPrice": null,
+      "price": 1699.99,
+      "discount": null,
+      "image": [
+        "https://images.lojanike.com.br/700x700/produto/tenis-nike-zoomx-vaporfly-next-2-masculino-CU4111-100-1.jpg",
+        "https://images.lojanike.com.br/700x700/produto/tenis-nike-zoomx-vaporfly-next-2-masculino-CU4111-100-2.jpg",
+        "https://images.lojanike.com.br/700x700/produto/tenis-nike-zoomx-vaporfly-next-2-masculino-CU4111-100-5.jpg"
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Tênis Nike ZoomX Invincible Run Flyknit Masculino",
+      "category": "Corrida",
+      "fullPrice": 1099.99,
+      "price": 939.99,
+      "discount": "(-15%)",
+      "image": [
+        "https://images.lojanike.com.br/700x700/produto/tenis-nike-zoomx-invincible-run-flyknit-masculino-CT2228-700-1.jpg",
+        "https://images.lojanike.com.br/700x700/produto/tenis-nike-zoomx-invincible-run-flyknit-masculino-CT2228-700-2.jpg",
+        "https://images.lojanike.com.br/700x700/produto/tenis-nike-zoomx-invincible-run-flyknit-masculino-CT2228-700-5.jpg"
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Tênis Nike Metcon 6 Masculino",
+      "category": "Treino & Academia",
+      "fullPrice": 749.99,
+      "price": 639.99,
+      "discount": "(-15%)",
+      "image": [
+        "https://images.lojanike.com.br/700x700/produto/tenis-nike-metcon-6-masculino-CK9388-707-1.jpg",
+        "https://images.lojanike.com.br/700x700/produto/tenis-nike-metcon-6-masculino-CK9388-707-2.jpg",
+        "https://images.lojanike.com.br/700x700/produto/tenis-nike-metcon-6-masculino-CK9388-707-5.jpg"
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Tênis Nike Metcon 6 Unissex",
+      "category": "Treino & Academia",
+      "fullPrice": 749.99,
+      "price": 639.99,
+      "discount": "(-15%)",
+      "image": [
+        "https://images.lojanike.com.br/700x700/produto/tenis-nike-metcon-6-unissex-DJ3022-001-1.jpg",
+        "https://images.lojanike.com.br/700x700/produto/tenis-nike-metcon-6-unissex-DJ3022-001-2.jpg",
+        "https://images.lojanike.com.br/700x700/produto/tenis-nike-metcon-6-unissex-DJ3022-001-5.jpg"
+      ]
+    }
+  ],
+  "sizes": [
+    {
+      "id": 1,
+      "size": "M 37 / F 36"
+    },
+    {
+      "id": 2,
+      "size": "M 38 / F 37"
+    },
+    {
+      "id": 3,
+      "size": "M 39 / F 38"
+    },
+    {
+      "id": 4,
+      "size": "M 40 / F 39"
+    }
+  ]
+}
